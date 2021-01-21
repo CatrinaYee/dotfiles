@@ -1,6 +1,6 @@
 [user]
-	name  = Peter Major
-	email = pmajor@sankynet.com
+	name  = Catrina Yee
+	email = cyee@sankyinc.com
 [credential]
 	helper = osxkeychain
 [color]
@@ -29,10 +29,10 @@
 [apply]
   whitespace = fix
 [core]
-  editor     = vim
+  editor     = code -w
   whitespace = space-before-tab,tab-in-indent,trailing-space
 	excludesfile = ~/.dotfiles/git/.gitignore_global
 [github]
-	user = mejdzer
+	user = CatrinaYee
 [help]
 	autocorrect = 1
